@@ -1,13 +1,13 @@
 #include<stdio.h>
 /**
-* main - Entry point
+* main - Entry Point
 *
-* Description: A simple C program that print with function puts()
-* 
+* Description: A simple C program that prints with function puts()
+*
 * Return: 0
 */
-int main (void)
+int main(void)
 {
-puts ("\"programming is like building a multilingual puzzle");
+puts("\"Programming is like building a multilingual puzzle");
 return (0);
 }
