@@ -25,7 +25,7 @@ if (temp >= 100)
 {
 _putchar((temp / 100) + '0');
 _putchar((temp / 10) % 10 + '0');
-}		  
+}
 else if (temp >= 10 && temp < 100)
 _putchar((temp / 10) + '0');
 _putchar((temp % 10) + '0');
