@@ -4,9 +4,9 @@
 #include <limits.h>
 /**
  * main - checks the code
- *
- * Return: Always 0
- */
+*
+* Return: Always 0
+*/
 int main(void)
 {
 int *a;
