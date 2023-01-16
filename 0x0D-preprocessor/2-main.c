@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
 * main - Entry point
-* 
+*
 * Description: Simple c program to print the name of the file
 *
 * Return: Always 0
