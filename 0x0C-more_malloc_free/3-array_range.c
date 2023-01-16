@@ -2,12 +2,12 @@
 #include <stdlib.h>
 #include <stddef.h>
 /**
- * array_range - fill an array from @min to @max inclusive
- * @min: minimum value
- * @max: maximum value
- *
- * Return: address of the array
- */
+* array_range - fill an array from @min to @max inclusive
+* @min: minimum value
+* @max: maximum value
+*
+* Return: address of the array
+*/
 int *array_range(int min, int max)
 {
 int i, *arr;
