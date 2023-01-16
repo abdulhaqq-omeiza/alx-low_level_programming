@@ -2,7 +2,7 @@
 #include <stdio.h>
 /**
 * print_dog - prints dog data
-* @d: pointer       dog struct
+* @d: pointer to dog struct
 */
 void print_dog(struct dog * d)
 {
