@@ -21,7 +21,7 @@ if (n >= strlen(s2))
 s = malloc (sizeof(char) * (sizeof(s1) + strlen(s1)));
 else
 s = malloc(sizeof(char) * (sizeof(s1) + n));
-if(s == NULL)
+if (s == NULL)
 {
 free(s);
 return (NULL);
