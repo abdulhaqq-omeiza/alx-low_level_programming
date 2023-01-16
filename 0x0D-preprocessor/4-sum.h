@@ -6,4 +6,4 @@
 * Desc: that computes the sum of numbers x and y
 */
 #define SUM(x, y) ((x) + (y))
-#endif /* SUM_H */
+#endif
