@@ -2,13 +2,13 @@
 #include <stdlib.h>
 #include <string.h>
 /**
- * string_nconcat - concatenate @s1 and @n length of @s2
- * @s1: address of the first string
- * @s2: address of the second string
- * @n: size of @s2 to copy
- *
- * Return: the address of concatenated string
- */
+* string_nconcat - concatenate @s1 and @n length of @s2
+* @s1: address of the first string
+* @s2: address of the second string
+* @n: size of @s2 to copy
+*
+* Return: the address of concatenated string
+*/
 char *string_noconcat(char *s1, char *s2, unsigned int n)
 {
 char *s;
@@ -27,7 +27,7 @@ free(s);
 return (NULL);
 }
 for (i = 0; s1[i] != '\0'; i++)
-s[i] = s1j];
+s[i] = s1[i];
 for (j = 0; s2[j] != '\0' && j < n; j++, i++)
 s[i] = s2[j];
 s[i] = '\0';
