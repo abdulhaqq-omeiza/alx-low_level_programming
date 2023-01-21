@@ -84,7 +84,7 @@ if (j < 4)
 {
 printf("%s", separator);
 funcs[j].print(args);
-separator = ", ";
+separator = ",";
 }
 i++;
 }
