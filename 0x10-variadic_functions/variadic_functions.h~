@@ -1,0 +1,8 @@
+#ifndef VARIADIC_FUNCTIONS_H
+#define VARIADIC_FUNCTIONS_H
+/**
+ * File: variadic_functions.h
+ * Desc: header file containing prototypes for all functions
+ *       used int he 0X0F-variadic_functions directory.
+ */
+#
